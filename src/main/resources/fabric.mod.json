@@ -3,12 +3,12 @@
 	"id": "elytra-equipper",
 	"version": "${version}",
 	"name": "Elytra Equipper",
-	"description": "Elytra Equipper is a client side mod that will swap the players elytra and chestplate for them! (Continuationof Automatic Elytra)",
+	"description": "Elytra Equipper is a client side mod that will swap the players elytra and chestplate for them! (Continuation of Automatic Elytra)",
 	"authors": [
 		"Cooler_Typ99"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://curseforge.com/minecraft/mc-mods/elytra-equipper",
 		"sources": "https://github.com/CoolerTyp99/Elytra-Equipper",
 		"twitch": "https://www.twitch.tv/cooler_typ991",
 		"youtube": "https://www.youtube.com/@Cooler_Typ99"
