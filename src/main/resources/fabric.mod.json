@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "elytra-equipper",
+	"version": "${version}",
+	"name": "Elytra Equipper",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Cooler_Typ99"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"twitch": "https://www.twitch.tv/cooler_typ991",
+		"youtube": "https://www.youtube.com/@Cooler_Typ99"
+	},
+	"license": "MIT",
+	"icon": "assets/elytra-equipper/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          	"de.coolertyp99.ElytraEquipper"
+		],
+		"client": [
+			"de.coolertyp99.ElytraEquipperClient"
+		],
+		"fabric-datagen": [
+          	"de.coolertyp99.ElytraEquipperDataGenerator"
+		]
+	},
+	"mixins": [
+		"elytra-equipper.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.19.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
