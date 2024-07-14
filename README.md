@@ -1,3 +1,6 @@
+# NOTE!!!
+<b>This is a mod for a old Minecraft version, please use  [JJElytraSwap](https://github.com/JumperOnJava/JJElytraSwap) now!</b>
+
 # Elytra Equipper
 Elytra Equipper is a <b>client side</b> mod that will equip and unequip their elytra for them.
 The player simply has to have an elytra in their inventory and when they try to fly it will be equiped.
